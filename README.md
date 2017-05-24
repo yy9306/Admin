@@ -5,7 +5,10 @@
 ## 相关技术
 Vue-cli + element + eCharts
 
-## Build Setup
+### Demo（案例预览）
+[Demo](https://yy9306.github.io/Admin-dist/#/)
+
+#### Build Setup
 
 ``` bash
 # install dependencies
